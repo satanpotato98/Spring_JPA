@@ -1,6 +1,9 @@
-# Spring_JPA
-using JPA to create API to manipulate data and database in mariaDB
+# Spring_JPA.
+
+using JPA to create API to manipulate data and database in mariaDB.
+
 list of methods:
+
 public Employee addEmployee(Employee emp);
 	public Employee getById(int eid);
 	public List<Employee> getAll();
